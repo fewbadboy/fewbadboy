@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @fewbadboy
-- 👀 I’m interested in Web Front End
-- 🌱 I’m currently learning vue
-- 💞️ I’m looking to collaborate on Front End
-- 📫 How to reach me: fewbadboy2020@gmail.com
+- 😏 孤帆远影碧空尽，唯见长江天际流。
 
 <!---
 fewbadboy/fewbadboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
